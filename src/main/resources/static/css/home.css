@@ -1,0 +1,35 @@
+body {
+    background: #e5efff
+}
+.title {
+margin-top: 80px;
+}
+.form {
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.form__input {
+
+    border-radius: 5px;
+}
+.form__label {
+    font-size: 20px;
+    margin-right: 20px;
+}
+.form__select {
+    width: 129px;
+}
+.form__textarea {
+    width: 249px;
+    height: 100px;
+}
+.btn {
+    width: 249px;
+}
+.customForm {
+    margin-top: 80px;
+    margin-left: 460px
+}
+.custom {
+    padding-bottom: 20px;
+}
